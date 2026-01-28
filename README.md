@@ -1,2 +1,0 @@
-# cit-workshop
-Git Workshop
